@@ -1,6 +1,6 @@
 import time
 
-def send_inline_buttons_function():
+def send_inline_buttons_function(data):
     # Получаем текущее время (в секундах с эпохи)
     current_time = time.time()
 
